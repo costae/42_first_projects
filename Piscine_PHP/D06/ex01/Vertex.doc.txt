@@ -1,0 +1,4 @@
+<- Vertex ----------------------------------------------------------------------
+This is a class which operates with Vertexes in so many ways, such as:
+-in fact it only prints the contains of this vertex ;)
+---------------------------------------------------------------------- Vertex ->

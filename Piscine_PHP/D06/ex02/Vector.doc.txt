@@ -1,0 +1,11 @@
+
+<- Vector ----------------------------------------------------------------------
+This is a class which operates with Vectors in so many ways, such as:
+-normalizind;
+-multipliyng;
+-adding;
+-subing;
+-dotProduct;
+-scalarProduct;
+and others;
+---------------------------------------------------------------------- Vector ->

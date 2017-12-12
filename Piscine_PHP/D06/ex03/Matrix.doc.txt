@@ -1,0 +1,12 @@
+
+<- Matrix ----------------------------------------------------------------------
+This is a class which operates with Matrixes in so many ways, such as:
+rotation on x axis;
+rotation on y axis;
+rotation on z axis;
+translation;
+identity;
+multiplying;
+opposite;
+
+---------------------------------------------------------------------- Matrix ->
